@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Home</title>
+<link rel="stylesheet" href="style.css">
+
+<center><h1>SISTEM REPRODUKSI WANITA DAN PRIA</h1>
+
+<img src="Rep wan.jpg" alt="Rep wan" width="350">
+
+<img src="Rep pri.jpg" alt="Rep pri" width="470">
+
+<center><h2>Penyakit Di Alat Reproduksi Wanita Dan Pria</h2>
+
+
+
+<center><p>Sistem Reproduksi Wanita
+<a href="Wanita.HTML" target="blank">
+Klik Disini</a></center>
+
+
+<center>Sistem Reproduksi Pria
+<a href="Pria.HTML" target="blank">
+Klik Disini
